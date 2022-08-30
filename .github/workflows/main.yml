@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: macos-latest
     steps:
-    - name: Setup Session(test)
+    - name: Setup Session
       uses: csexton/debugger-action@master
